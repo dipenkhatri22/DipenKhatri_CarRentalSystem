@@ -89,8 +89,9 @@ git clone https://github.com/DipenKhatri_Dot_Net_Assignment/CarRentalSystem.git
   - **Username**: `testadmin`
   - **Password**: `123`
 
-## Screenshots
-(TODO: Add screenshots of the application UI)
+![image](https://github.com/user-attachments/assets/fef3d3d6-af11-48ac-a10b-380b91712d1f)
+![image](https://github.com/user-attachments/assets/98084245-2845-46cd-8a5f-95d8401b9133)
+
 
 ## Future Enhancements
 - Implement **role-based authentication**.
